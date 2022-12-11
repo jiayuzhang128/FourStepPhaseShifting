@@ -1,5 +1,7 @@
 ## 单目结构光三维重建
 
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1609737472834883584.svg)](https://www.murphysec.com/accept?code=240fe94d930a97498a7603ac132ee98a&type=1&from=2&t=2)
+
 本项目使用"互补格雷码+相移码"方法获取被测物体的三维信息，欢迎**star**:star:收藏！
 
 matlab版本代码解码和重建比较完整比较完整，python版本在[CSDN](http://t.csdn.cn/aSxGf)有更详细介绍。
@@ -35,7 +37,7 @@ matlab版本代码解码和重建比较完整比较完整，python版本在[CSDN
 
 ![pointcloud](images/pointcloud.png)
 
-![pointclould](/images/pointcloud.gif)
+![pointclould](images/pointcloud.gif)
 
 #### :three:算法流程
 
